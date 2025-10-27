@@ -7,6 +7,7 @@
 2. **Display Component** - แสดงผลข้อมูลในรูปแบบตาราง
 
 ## โครงสร้างโฟลเดอร์หลังใช้ create-component
+```
 lab7-3_esp32_Component/
 ├── CMakeLists.txt
 ├── components/
@@ -25,3 +26,4 @@ lab7-3_esp32_Component/
 │   └── lab7-3.c
 ├── build/
 └── README.md
+```
